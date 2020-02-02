@@ -2,8 +2,8 @@
 Dr. J. Berenike Herrmann
 
 ## Tools
-### DiaCollo (Bryan Jurish)
-- Diachronic Collocation Analysis using a range of corpora from the DWDS (Deutsches Textarchiv [DTA], Press corpus, and others)
+### DiaCollo 
+- Diachronic Collocation Analysis (DiaCollo, Bryan Jurish) using a range of corpora from the DWDS (Deutsches Textarchiv [DTA], Press corpus, and others)
 - Tutorial: http://kaskade.dwds.de/diacollo-tutorial/#introduction.html
 - (German) Discussion with examples in ForText: https://fortext.net/ressourcen/textsammlungen/dwds-digitales-woerterbuch-der-deutschen-sprache 
 
