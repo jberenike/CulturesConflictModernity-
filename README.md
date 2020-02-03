@@ -1,7 +1,8 @@
 # Digital Learning: Tools and Resources
 Dr. J. Berenike Herrmann
 
-## Tools used for Text Analysis in Talk and Lesson
+## Tools used for Text Analysis in Talk "Digital Learning" (3 Feb 2020) and Lesson "Contemporary German Civilization: Cultures and Conflict in Modernity" (4 Feb 2020)
+
 ### DiaCollo 
 - Diachronic Collocation Analysis (DiaCollo, Bryan Jurish) using a range of corpora from the DWDS (Deutsches Textarchiv [DTA], Press corpus, and others)
 - Tutorial: http://kaskade.dwds.de/diacollo-tutorial/#introduction.html
@@ -21,8 +22,3 @@ Dr. J. Berenike Herrmann
 - KosKo (Basel) https://kosko.hypotheses.org/ (currently being finalized)
 - TextLab (Göttingen) http://www.litlog.de/eine-app-auf-dem-vormarsch/
 - LiteraturRechnen (Göttingen) http://litre.uni-goettingen.de/index.php/Hauptseite
-
-
-
-## Contemporary German Civilization: Cultures and Conflict in Modernity
-
