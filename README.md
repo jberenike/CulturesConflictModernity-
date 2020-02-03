@@ -1,7 +1,7 @@
 # Digital Learning: Tools and Resources
 Dr. J. Berenike Herrmann
 
-## Tools
+## Tools used for Text Analysis in Talk and Lesson
 ### DiaCollo 
 - Diachronic Collocation Analysis (DiaCollo, Bryan Jurish) using a range of corpora from the DWDS (Deutsches Textarchiv [DTA], Press corpus, and others)
 - Tutorial: http://kaskade.dwds.de/diacollo-tutorial/#introduction.html
