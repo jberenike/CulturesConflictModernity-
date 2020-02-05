@@ -17,9 +17,11 @@ Dr. J. Berenike Herrmann
 - (you can also access Voyant directly: https://voyant-tools.org/, for example when you wish to upload to analyze multiple texts simultaneously).
 
 ### A superuseful application in teaching German L2
-- one application of both DiaCollo and Voyant is to explore the meaning of new words the students learn.
-- here, the KEYWORD IN CONTEXT function reveals the keyword in its multiple textual contexts in the chosen corpus. Through this, different shades of meaning become visible and can be compared.
-- in __DiaCollo__, you can enter a term like "Krise" or one like "anzapfen", and with the "cloud" function first of all look at its meaning in discourse through time. As the tutorial explains, the students will be able to choose from different reference corpora and look at the cooccurring terms. By clicking on the word cloud terms, more information about frequency becomes available. Most important for our means is the button called __"search:	KWIC"__: it depicts the search term with its left and right neighbors in specific instances.
+- one application of both DiaCollo and Voyant is to explore the meaning of new words the students learn, for example, "Krise" or "anzapfen". 
+- to this aim, the KEYWORD IN CONTEXT function will reveal the search term in its multiple textual contexts. Through this, different shades of meaning become visible and can be compared.
+- the corpora can be the larger collections from the DWDS (DiaCollo) or any text or collection of texts determined by the course (if available in TextGrid, see above).
+- How it works -->
+- in __DiaCollo__, you can enter a term like "Krise" or one like "anzapfen". The "cloud" function will show the term and its signifcant co-occurent terms through time (see tutorial). In order to go to the KWIC, the students have to click directly on the terms represented in the word cloud, so a box with more information about frequency opens up. Within the box, click the button called __"search:	KWIC"__: this will reveal instances of the search term with its left and right neighbors.
 - in __Voyant__ the KWIC function can be found at the lower right side of the graphical user interface: the __"contexts"__ tool. Any term of interest can be entered (at the bottom of the "contexts" tool, and its left and right neighbors be revealed.
 
 ## My students' (research-oriented) digital learning documented online
