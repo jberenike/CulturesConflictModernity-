@@ -21,7 +21,7 @@ Dr. J. Berenike Herrmann
 - to this aim, the KEYWORD IN CONTEXT function will reveal the search term in its multiple textual contexts. Through this, different shades of meaning become visible and can be compared.
 - the corpora can be the larger collections from the DWDS (DiaCollo) or any text or collection of texts determined by the course (if available in TextGrid, see above).
 - How it works -->
-- in __DiaCollo__, you can enter a term like "Krise" or one like "anzapfen". The "cloud" function will show the term and its signifcant co-occurent terms through time (see tutorial). In order to go to the KWIC, the students have to click directly on the terms represented in the word cloud, so a box with more information about frequency opens up. Within the box, click the button called __"search:	KWIC"__: this will reveal instances of the search term with its left and right neighbors.
+- in __DiaCollo__, you can enter a term like "Krise" or one like "anzapfen". The "cloud" function will basically show the term and its signifcantly co-occurring terms through time (see tutorial). In order to go to the __KWIC__ function, the students have to click directly on the terms represented in the word cloud, so a box with more information about frequency opens up. Within this box, they click the button called __"search:	KWIC"__: this will reveal instances of the search term with its left and right neighbors.
 - in __Voyant__ the KWIC function can be found at the lower right side of the graphical user interface: the __"contexts"__ tool. Any term of interest can be entered (at the bottom of the "contexts" tool, and its left and right neighbors be revealed.
 
 ## My students' (research-oriented) digital learning documented online
